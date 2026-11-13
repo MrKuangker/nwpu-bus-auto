@@ -1,7 +1,7 @@
 {
-    "versionCode":  4,
-    "versionName":  "0.4.0",
-    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.4.0.apk",
-    "sha256":  "3a0945be7061787852df8065d3b2572608f9a966dd36e970bf6696cca570bf59",
-    "notes":  "界面改版：蓝色渐变页头、白色圆角卡片、班次状态标签、底部操作栏；桌面图标改为蓝底校车+预约时钟"
+    "versionCode":  5,
+    "versionName":  "0.5.0",
+    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.5.0.apk",
+    "sha256":  "7746b7d5f284d96fc24d362eb99269975f1e2f37eb95ec17e2b7e5332caa8570",
+    "notes":  "改用隐藏 WebView 页面内 XHR 调接口，修复安卓原生 HTTP 被 WAF 412 的问题；界面与图标保持 v0.4.0"
 }
