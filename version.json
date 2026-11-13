@@ -1,7 +1,7 @@
 {
-    "versionCode":  3,
-    "versionName":  "0.3.0",
-    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.3.0.apk",
-    "sha256":  "4788755553560b123c9e3eba7400e68a9ca4483320539352f93dc2e5bcb62f75",
-    "notes":  "更换校车图标（蓝底黄色校车 + 预约时钟），提升桌面识别度"
+    "versionCode":  4,
+    "versionName":  "0.4.0",
+    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.4.0.apk",
+    "sha256":  "3a0945be7061787852df8065d3b2572608f9a966dd36e970bf6696cca570bf59",
+    "notes":  "界面改版：蓝色渐变页头、白色圆角卡片、班次状态标签、底部操作栏；桌面图标改为蓝底校车+预约时钟"
 }
