@@ -1,7 +1,7 @@
 {
-    "versionCode":  5,
-    "versionName":  "0.5.0",
-    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.5.0.apk",
-    "sha256":  "7746b7d5f284d96fc24d362eb99269975f1e2f37eb95ec17e2b7e5332caa8570",
-    "notes":  "改用隐藏 WebView 页面内 XHR 调接口，修复安卓原生 HTTP 被 WAF 412 的问题；界面与图标保持 v0.4.0"
+    "versionCode":  6,
+    "versionName":  "0.5.1",
+    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.5.1.apk",
+    "sha256":  "f082bda7c0714673d03b4d6c6f08f99218b67371fdffe2de9148e8d95a08c9fb",
+    "notes":  "修复从前台服务返回 App 时接口通道未重新挂载；WebView XHR 修复保持"
 }
