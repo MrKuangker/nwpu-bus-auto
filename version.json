@@ -1,7 +1,7 @@
 {
-    "versionCode": 7,
-    "versionName": "0.6.0",
-    "apkUrl": "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.6.0.apk",
-    "sha256": "48c4bd537c46f0bcec9cfc807ac0fd718124e6eb321ea225038c96ee0a19e7f4",
-    "notes": "日期改为横向周条（仿官方）；新增已抢到独立页，可查看当前/历史预约，并对未支付订单点进行支付；点时间只加入待选，开始监控才生效"
+    "versionCode":  8,
+    "versionName":  "0.6.1",
+    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.6.1.apk",
+    "sha256":  "5215d6b786e2fa6ed77eeaff5cb536731bf13c6941eda9c965841e45a8d931c8",
+    "notes":  "移除主页底部去支付按钮，统一在已抢到页对应订单后面进行支付；自动清理过期待支付订单"
 }
