@@ -1,7 +1,7 @@
 {
-    "versionCode":  2,
-    "versionName":  "0.2.0",
-    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.2.0.apk",
-    "sha256":  "1153a5a55b7bdbd9fd839b688312f4c4288a1492a62b2702b6fdbb7029aeafbd",
-    "notes":  "首个原生版：班次/勾选、隐藏 WebView 过 WAF、原生接口、前台服务+精确闹钟、锁座通知、App 内支付页；新增检查更新。"
+    "versionCode":  3,
+    "versionName":  "0.3.0",
+    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.3.0.apk",
+    "sha256":  "4788755553560b123c9e3eba7400e68a9ca4483320539352f93dc2e5bcb62f75",
+    "notes":  "更换校车图标（蓝底黄色校车 + 预约时钟），提升桌面识别度"
 }
