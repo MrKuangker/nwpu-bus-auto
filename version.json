@@ -1,7 +1,7 @@
 {
-    "versionCode":  15,
-    "versionName":  "0.7.6",
-    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.6.apk",
-    "sha256":  "5c7d7b3eaa92b65adc110f7dac276436f0d9df86523f805218c78cf3977befd5",
-    "notes":  "下一周箭头自动选中该周周一；线路默认显示长安到友谊；包含 v0.7.5 监控中取消待选二次校验"
+    "versionCode":  16,
+    "versionName":  "0.7.7",
+    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.7.apk",
+    "sha256":  "970dc0a21f0d424fe00a597194d2b07b28b27584feba647af170aca8457297ad",
+    "notes":  "已抢到入口和页面改名为查看订单；已支付订单只显示已支付；取消预约按钮加红色边框；保留下一周跳周一和默认长安到友谊"
 }
