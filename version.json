@@ -1,7 +1,7 @@
 {
-    "versionCode":  12,
-    "versionName":  "0.7.3",
-    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.3.apk",
-    "sha256":  "379ebc44ac66edc40b705b66893a17aaa934d2464df5e639058941e30f2f514c",
-    "notes":  "权限弹窗显示已开启状态，点击已开启项有 toast 反馈；电池白名单/全屏提醒/通知权限均会给出结果；保留取消待核验订单功能"
+    "versionCode":  13,
+    "versionName":  "0.7.4",
+    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.4.apk",
+    "sha256":  "ea7948186c7efbc2a6d582cfcd3bfc3c2c4d143f65c90b28b9345bd1d74f86fc",
+    "notes":  "去掉加入待选/移出待选的 toast 弹窗；只保留卡片高亮、勾选和开始监控数量反馈；包含 v0.7.3 权限反馈与取消待核验订单"
 }
