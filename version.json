@@ -1,7 +1,7 @@
 {
-    "versionCode":  10,
-    "versionName":  "0.7.1",
-    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.1.apk",
-    "sha256":  "38b072a786f78204189b11e37964c5662da16725cbc7e15206a78739a7686f01",
-    "notes":  "移除精确闹钟权限和定时闹钟，改用前台服务持续轮询；保留后台复用验证通道、1.5 秒轮询、全屏支付提醒和新图标"
+    "versionCode":  11,
+    "versionName":  "0.7.2",
+    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.2.apk",
+    "sha256":  "76ef4fc578453d96aae6671582a9f53aa3dc7304f6116a8b258fdf09873f90aa",
+    "notes":  "已抢到页新增取消预约（仅待核验已支付订单）；待支付订单官方不支持取消，保持自动过期；无闹钟版本与新图标"
 }
