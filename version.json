@@ -1,7 +1,7 @@
 {
-    "versionCode":  11,
-    "versionName":  "0.7.2",
-    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.2.apk",
-    "sha256":  "76ef4fc578453d96aae6671582a9f53aa3dc7304f6116a8b258fdf09873f90aa",
-    "notes":  "已抢到页新增取消预约（仅待核验已支付订单）；待支付订单官方不支持取消，保持自动过期；无闹钟版本与新图标"
+    "versionCode":  12,
+    "versionName":  "0.7.3",
+    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.3.apk",
+    "sha256":  "379ebc44ac66edc40b705b66893a17aaa934d2464df5e639058941e30f2f514c",
+    "notes":  "权限弹窗显示已开启状态，点击已开启项有 toast 反馈；电池白名单/全屏提醒/通知权限均会给出结果；保留取消待核验订单功能"
 }
