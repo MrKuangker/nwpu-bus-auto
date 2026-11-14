@@ -1,7 +1,7 @@
 {
-    "versionCode":  13,
-    "versionName":  "0.7.4",
-    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.4.apk",
-    "sha256":  "ea7948186c7efbc2a6d582cfcd3bfc3c2c4d143f65c90b28b9345bd1d74f86fc",
-    "notes":  "去掉加入待选/移出待选的 toast 弹窗；只保留卡片高亮、勾选和开始监控数量反馈；包含 v0.7.3 权限反馈与取消待核验订单"
+    "versionCode":  14,
+    "versionName":  "0.7.5",
+    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.5.apk",
+    "sha256":  "3aad8acf38ebd0aaac465a08dcb755146c9f9ded2821ab31737f3ffccbff2d67",
+    "notes":  "监控中取消待选会从下一轮移除该车次；锁座前再次校验待选，避免刚取消仍被锁；包含无闹钟/权限反馈/取消待核验/去待选提示"
 }
