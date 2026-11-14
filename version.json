@@ -1,7 +1,7 @@
 {
-    "versionCode":  8,
-    "versionName":  "0.6.1",
-    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.6.1.apk",
-    "sha256":  "5215d6b786e2fa6ed77eeaff5cb536731bf13c6941eda9c965841e45a8d931c8",
-    "notes":  "移除主页底部去支付按钮，统一在已抢到页对应订单后面进行支付；自动清理过期待支付订单"
+    "versionCode":  9,
+    "versionName":  "0.7.0",
+    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.0.apk",
+    "sha256":  "2aa218c4c176908521ecb47a2d3edbb8417255e8bebc626f2e77939a584f50c6",
+    "notes":  "后台监控复用 App 验证通道，轮询加速到 1.5 秒、开放前 300 毫秒；锁座后高优先级通知和全屏支付页；换新图标资源并补齐 round 图标，修复图标回退"
 }
