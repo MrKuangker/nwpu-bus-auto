@@ -1,7 +1,7 @@
 {
-    "versionCode":  14,
-    "versionName":  "0.7.5",
-    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.5.apk",
-    "sha256":  "3aad8acf38ebd0aaac465a08dcb755146c9f9ded2821ab31737f3ffccbff2d67",
-    "notes":  "监控中取消待选会从下一轮移除该车次；锁座前再次校验待选，避免刚取消仍被锁；包含无闹钟/权限反馈/取消待核验/去待选提示"
+    "versionCode":  15,
+    "versionName":  "0.7.6",
+    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.6.apk",
+    "sha256":  "5c7d7b3eaa92b65adc110f7dac276436f0d9df86523f805218c78cf3977befd5",
+    "notes":  "下一周箭头自动选中该周周一；线路默认显示长安到友谊；包含 v0.7.5 监控中取消待选二次校验"
 }
