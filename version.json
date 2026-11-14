@@ -1,7 +1,7 @@
 {
-    "versionCode":  9,
-    "versionName":  "0.7.0",
-    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.0.apk",
-    "sha256":  "2aa218c4c176908521ecb47a2d3edbb8417255e8bebc626f2e77939a584f50c6",
-    "notes":  "后台监控复用 App 验证通道，轮询加速到 1.5 秒、开放前 300 毫秒；锁座后高优先级通知和全屏支付页；换新图标资源并补齐 round 图标，修复图标回退"
+    "versionCode":  10,
+    "versionName":  "0.7.1",
+    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.1.apk",
+    "sha256":  "38b072a786f78204189b11e37964c5662da16725cbc7e15206a78739a7686f01",
+    "notes":  "移除精确闹钟权限和定时闹钟，改用前台服务持续轮询；保留后台复用验证通道、1.5 秒轮询、全屏支付提醒和新图标"
 }
