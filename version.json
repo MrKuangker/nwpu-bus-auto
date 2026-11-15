@@ -1,7 +1,7 @@
 {
-    "versionCode":  17,
-    "versionName":  "0.7.8",
-    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.8.apk",
-    "sha256":  "3e4f29fa91e13398207fffe0e98183c2acef97892d11f06316dae9854480359e",
-    "notes":  "图标问题：改用新的 launcher activity-alias 入口组件，绕开旧桌面快捷方式缓存；图标资源已验证为校车；保留查看订单/取消/无闹钟等功能"
+    "versionCode":  18,
+    "versionName":  "0.7.9",
+    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.7.9.apk",
+    "sha256":  "62308962f6173f2d8812bf831179c2417da4d81062ae7fa39d4e8db69e7930ea",
+    "notes":  "上一周箭头默认选中该周周日，下一周仍默认周一；保留查看订单/取消待核验/无闹钟/全屏支付/新图标入口"
 }
