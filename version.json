@@ -1,7 +1,7 @@
 {
-    "versionCode":  19,
-    "versionName":  "0.8.0",
-    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.8.0.apk",
-    "sha256":  "622689893745ce7c0332553afade95edaf4fc80283d9d926b97f25115f5adc37",
-    "notes":  "线路不再用下拉框：只显示当前方向，右侧双向箭头一键切换友谊/长安方向；保留上一周周日、下一周周一等"
+    "versionCode":  20,
+    "versionName":  "0.8.1",
+    "apkUrl":  "https://mrkuangker.github.io/nwpu-bus-auto/bus-auto-v0.8.1.apk",
+    "sha256":  "f4f633f19cf178a2a70a7cb69cd93c81594a5b74ea9fc349d54e4910e669d17f",
+    "notes":  "线路方向文字和双向箭头作为整体在白色框内居中；不使用下拉框；保留上一周周日、下一周周一等"
 }
